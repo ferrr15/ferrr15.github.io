@@ -1,0 +1,23 @@
+#direc{
+    display: inline-block;
+    float: left;
+    border: brown double 15px;
+}
+h2{
+    font-family: sans-serif;
+    font-size: 40px;
+    color: darkred;
+}
+p{
+    font-family: sans-serif;
+    font-size: 22px;
+}
+h3{
+    font-family: sans-serif;
+    font-size: 30px;
+}
+ul{
+    clear: both;
+    font-size: 22px;
+    font-family: sans-serif;
+}

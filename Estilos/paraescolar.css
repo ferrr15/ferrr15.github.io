@@ -1,0 +1,67 @@
+h3{
+    clear: both;
+    font-family: sans-serif;
+    font-size: 28px;
+    color: saddlebrown;
+}
+h2{
+    font-family: sans-serif;
+    font-size: 38px;
+    color: brown;
+}
+#prim{
+    font-family: sans-serif;
+    font-size: 24px;
+}
+p{
+  padding: 30px;
+    font-size: 24px;
+    font-family: sans-serif
+}
+#basq{
+    display: inline-block;
+    float: left;
+    border: double brown 15px;
+}
+#voli{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: double brown 15px;
+}
+#fut{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: double brown 15px;
+}
+#pint{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: double brown 15px;
+}
+#teat{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: double brown 15px;
+}
+#mus{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: double brown 15px;
+}
+#esc{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: double brown 15px;
+}
+#ban{
+    clear: both;
+    display: inline-block;
+    float: left;
+    border: double brown 15px;
+}

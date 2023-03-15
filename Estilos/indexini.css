@@ -1,0 +1,25 @@
+
+#titu{
+    font-family: sans-serif;
+    font-size: 40px;
+    color: darkblue;
+}
+#titu2{
+    font-family: sans-serif;
+    font-size: 28px;
+    color: cadetblue;
+}
+p{
+    font-size: 20px;
+    font-family:sans-serif;
+}
+h4{
+    font-size:24px;
+    font-family: sans-serif;
+    color: darkcyan
+}
+#bachito{
+    display: inline-block;
+    float: left;
+    border: 12px darkred double;
+}

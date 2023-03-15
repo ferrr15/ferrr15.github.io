@@ -1,0 +1,47 @@
+#titu1{
+    color: cornflowerblue;
+    font-size: 40px;
+    font-family: sans-serif;
+}
+h3{
+    clear: both;
+    color: darkred;
+    font-size: 28px;
+    font-family: sans-serif;
+}
+#img1{
+    display: inline-block;
+    float: left;
+    border: 12px darkred double;
+}
+#img2{
+    display: inline-block;
+    float: left;
+    border: 12px darkred double;
+}
+#img3{
+    display: inline-block;
+    float: left;
+    border: 12px darkred double;
+}
+#img4{
+    display: inline-block;
+    float: left;
+    border: 12px darkred double;
+}
+#img5{
+    display: inline-block;
+    float: left;
+    border: 12px darkred double;
+}
+h4{
+    color: orangered;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+p{
+    font-size: 19px;
+}
+#ult{
+    clear: both;
+}
